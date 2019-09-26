@@ -1,6 +1,6 @@
-# chapinlopez
+# Chapin Lopez
 
-> Resume for employers and clients
+Old version of my personal website with projects and skills.
 
 ## Build Setup
 
